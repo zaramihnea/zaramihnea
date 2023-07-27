@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zaramihnea
 - 💻 I'm a student at "Facultatea de Informatica Iasi", UAIC university
 - 👀 I’m interested in coding and tech
-- 📫 How to reach me: email - zaramihnea@icloud.com || website - https://zaramihnea.xyz                   
+- 📫 How to reach me: email - zaramihnea@icloud.com           
