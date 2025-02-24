@@ -42,6 +42,8 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaramihnea&theme=tokyonight" alt="zaramihnea" />
 </div>
 
+<a href="https://app.daily.dev/zaramihnea"><img src="https://api.daily.dev/devcards/v2/VyZPNGZ7OV9wdzJNhAdfa.png?type=default&r=xk4" width="356" alt="Zara Mihnea's Dev Card"/></a>
+
 ## 🤝 Connect With Me
 
 - 📧 Email: [zaramihnea@icloud.com](mailto:zaramihnea@icloud.com)
