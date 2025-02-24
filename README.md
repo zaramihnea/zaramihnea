@@ -35,7 +35,7 @@
 - [MyDNS](https://github.com/zaramihnea/MyDNS) - DNS implementation in C
 - [Web-Technologies-project](https://github.com/zaramihnea/Web-Technologies-project) - Modern web development project
 
-<a href="https://app.daily.dev/zaramihnea"><img src="https://api.daily.dev/devcards/v2/VyZPNGZ7OV9wdzJNhAdfa.png?type=default&r=xk4" width="356" alt="Zara Mihnea's Dev Card"/></a>
+<a href="https://app.daily.dev/zaramihnea"><img src="https://api.daily.dev/devcards/v2/VyZPNGZ7OV9wdzJNhAdfa.png?type=wide&r=h5c" width="652" alt="Zara Mihnea's Dev Card"/></a>
 
 ## 🤝 Connect With Me
 
