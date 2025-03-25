@@ -28,10 +28,9 @@
 
 ## 🚀 Projects
 
-- [Smart-Parking-Lot](https://github.com/zaramihnea/Smart-Parking-Lot) - TypeScript-based smart parking solution
-- [projectElectron](https://github.com/zaramihnea/projectElectron) - 2D graphics circuit simulator
-- [MyDNS](https://github.com/zaramihnea/MyDNS) - DNS implementation in C
-- [Web-Technologies-project](https://github.com/zaramihnea/Web-Technologies-project) - Modern web development project
+- [Smart-Parking-Lot](https://github.com/zaramihnea/Smart-Parking-Lot) - Amazon Learn & Earn winner
+- [EBUY](https://github.com/vanillaxqz/ECommercePlatform) - Full-Stack Online Store developed in .NET and Angular
+- [Catology](https://github.com/zaramihnea/Catology) - Python-based application utilizing a neural network to assist users with cat breed information
 
 <a href="https://app.daily.dev/zaramihnea"><img src="https://api.daily.dev/devcards/v2/VyZPNGZ7OV9wdzJNhAdfa.png?type=wide&r=h5c" width="652" alt="Zara Mihnea's Dev Card"/></a>
 
