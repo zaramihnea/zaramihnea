@@ -42,8 +42,6 @@
 - [EBUY](https://github.com/vanillaxqz/ECommercePlatform) - Full-Stack Online Store developed in .NET and Angular
 - [Catology](https://github.com/zaramihnea/Catology) - Python-based application utilizing a neural network to assist users with cat breed information
 
-<a href="https://app.daily.dev/zaramihnea"><img src="https://api.daily.dev/devcards/v2/VyZPNGZ7OV9wdzJNhAdfa.png?type=wide&r=h5c" width="652" alt="Zara Mihnea's Dev Card"/></a>
-
 ## 🤝 Connect With Me
 
 - 📧 Email: [zaramihnea@icloud.com](mailto:zaramihnea@icloud.com)
