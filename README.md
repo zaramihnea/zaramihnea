@@ -6,7 +6,7 @@
 
 ## About Me
 
-- Currently working @ Endava as a DevOps Engineer
+- Currently working as a DevOps Engineer
 - Masters student at **Facultatea de Informatica Iasi**, UAIC University
 - Passionate about coding and technology
 
